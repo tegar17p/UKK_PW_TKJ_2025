@@ -1,5 +1,4 @@
-INSTRUKSI UMUM (WAJIB) tegar.prianto
----------------------- 
+tegar.prianto
 1. Siswa mengedit file HTML yang sudah disediakan (boleh ubah struktur) tetapi wajib memuat semua elemen yang ditugaskan di POIN 3 lembar UKK.
 2. Wajib menggunakan CSS internal (<style> ... </style>) — **jangan** pakai file .css terpisah.
 3. WAJIB memberi pewarnaan: gunakan perubahan warna pada teks atau background (minimal 2 elemen yang berwarna).
